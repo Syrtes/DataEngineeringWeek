@@ -1,0 +1,3 @@
+graft DataEngineeringWeek
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  DataEngineeringWeek/jupy *
